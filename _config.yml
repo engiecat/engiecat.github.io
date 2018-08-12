@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Hyeongkeun 'Hugh' Kim"
   avatar           : "/assets/images/Kim_at_florence.jpg"
-  bio              : "A MechEng student, who researched Bio-Lab Automation and completed an internship at a Robotics company. An ASoIAF fan, a computer enthusiast, and an ML hobbyist."
+  bio              : "A MechEng student, who researched Bio-Lab Automation and completed an internship at a Robotics company. An ASoIAF fan, a computer enthusiast, and an ML hobbyist. \n engiecat3.14(at)gmail.com"
   location         : "Daejeon, South Korea"
-  email            : engiecat3.14(at)gmail.com
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
