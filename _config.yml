@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyeongkeun 'Hugh' Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Kim_at_florence.jpg"
   bio              : "A MechEng student, who researched Bio-Lab Automation and completed an internship at a Robotics company. An ASoIAF fan, a computer enthusiast, and an ML hobbyist."
   location         : "Daejeon, South Korea"
   email            : engiecat3.14(at)gmail.com
