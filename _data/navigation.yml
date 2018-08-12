@@ -1,7 +1,30 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: "/"
+  - title: "Bio/CV"
+    url: "/about/"
+  - title: "Experiences"
+    children:
+      - title: "NAVER LABS Robotics Group"
+        url: "/experiences/naverlabs"
+      - title: "Biomicrofluidics Lab., KAIST"
+        url: "/experiences/labonachip"
+      - title: "Teaching Experiences"
+        url: "/experiences/teach"
+      -
+  - title: "Projects"
+    children:
+      - title: "MineLoC"
+        url: "/project/mineloc"
+      - title: Project W5-BioLab
+        url: "/project/biolab"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Contact"
+    url: "/contact/"
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
