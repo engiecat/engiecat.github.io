@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: "/"
   - title: "Bio/CV"
     url: "/about/"
   - title: "Experiences"
@@ -12,7 +10,8 @@ main:
         url: "/experiences/labonachip"
       - title: "Teaching Experiences"
         url: "/experiences/teach"
-      -
+      - title: "Miscellaneous"
+        url: "/experiences/misc"
   - title: "Projects"
     children:
       - title: "MineLoC"
