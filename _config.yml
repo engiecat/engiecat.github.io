@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Hyeongkeun 'Hugh' Kim"
   avatar           : "/assets/images/Kim_at_florence.jpg"
-  bio              : "A MechEng student, who loves biology, robotics, and merging them for the better. An ASoIAF fan, and an ML hobbyist. sss"
+  bio              : "A MechEng student, who loves biology, robotics, and merging them for the better. An ASoIAF fan, and an ML hobbyist. ssds"
   location         : "Daejeon, South Korea"
   email            : "engiecat3.14(at)gmail(dot)com" 
   uri              :
@@ -136,6 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _experiences
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
