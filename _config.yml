@@ -255,7 +255,14 @@ compress_html:
   ignore:
     envs: development
 
-
+collections:
+  experiences:
+    output: true
+    permalink: /:collections/:path/
+  project:
+    output: true
+    permalink: /:collections/:path/
+    
 # Defaults
 defaults:
   # _posts
@@ -269,3 +276,4 @@ defaults:
       comments: # true
       share: true
       related: true
+  
