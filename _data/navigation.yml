@@ -3,6 +3,7 @@ main:
   - title: "Bio/CV"
     url: "/about/"
   - title: "Experiences"
+    url: "/experiences/"
     children:
       - title: "NAVER LABS Robotics Group"
         url: "/experiences/naverlabs"
@@ -12,20 +13,19 @@ main:
         url: "/experiences/teach"
       - title: "MR - KAIST Robotics Club"
         url: "/experiences/mr"
-      - title: "Miscellaneous"
+      - title: "Fun!"
         url: "/experiences/misc"
   - title: "Projects"
+    url: "/project/"
     children:
       - title: "MineLoC"
         url: "/project/mineloc"
       - title: "Project W5-BioLab"
         url: "/project/biolab"
-      - title: "Project RailVoice"
-        url:
+      - title: "Project DeepKorailVoice"
+        url: "/project/korailttssux
   - title: "Publications"
     url: "/publications/"
-  - title: "Contact"
-    url: "/contact/"
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
