@@ -22,8 +22,8 @@ main:
         url: "/project/mineloc"
       - title: "Project W5-BioLab"
         url: "/project/biolab"
-      - title: "Project DeepKorailVoice"
-        url: "/project/korailttssux
+      - title: "Project DeepRAIL"
+        url: "/project/deeprail"
   - title: "Publications"
     url: "/publications/"
   #- title: "Quick-Start Guide"
