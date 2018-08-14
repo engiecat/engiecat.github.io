@@ -4,7 +4,7 @@ title: "Hyeongkeun 'Hugh' Kim"
 excerpt: "Hyeongkeun Kim, A MechEng student, who loves biology, robotics, and merging them for the better."
 
 ---
-![times in florence](/assets/about_splash.jpg)
+![times in florence](/assets/images/about_splash.jpg)
 
 ### CV ###
 Please download the pdf version [here](/assets/CV_HKim.pdf)
