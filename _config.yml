@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -23,7 +23,7 @@ description              : "Homepage of Hyeongkeun 'Hugh' Kim."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : engiecat/engiecat.github.io 
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/engiecat_logo_frenchlime.png
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -82,7 +82,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/og_teaser.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Hyeongkeun 'Hugh' Kim"
   avatar           : "/assets/images/Kim_at_florence.jpg"
-  bio              : "A MechEng student, who loves biology, robotics, and merging them for the better. An ASoIAF fan, and an ML hobbyist. ssts"
+  bio              : "A MechEng student, who loves biology, robotics, and merging them for the better. An ASoIAF fan, and an ML hobbyist. "
   location         : "Daejeon, South Korea"
   email            : "engiecat3.14(at)gmail(dot)com" 
   uri              :
