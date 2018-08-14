@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "Bio, CV"
-excerpt: "Hyoengkeun Kim, A MechEng student, who loves biology, robotics, and merging them for the better."
+title: "Hyeongkeun 'Hugh' Kim"
+excerpt: "Hyeongkeun Kim, A MechEng student, who loves biology, robotics, and merging them for the better."
 
 ---
 ### CV ###
