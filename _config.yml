@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Hyeongkeun Kim"
 title_separator          : "-"
 name                     : "Hyeongkeun Kim"
-description              : "Homepage of Hyeongkeun 'Hugh' Kim."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Homepage of Hyeongkeun 'Hugo' Kim."
+url                      : "https://engiecat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : engiecat/engiecat.github.io 
-teaser                   : /assets/images/engiecat_logo_frenchlime.png
+teaser                   : /assets/images/engiecat_logo_mint.png
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
