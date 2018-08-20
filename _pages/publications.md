@@ -37,4 +37,4 @@ classes: wide
 
 * **H. Kim**, S. Park, J. Park, I. Song, “Building H-R Diagram of Star Clusters with DSLR Camera and its Educational Application”(Korean: 카메라를 사용한 성단의 H-R도 작성 및 교육적 활용), The Bulletin of the Korean astronomical society, v. 37 no. 2, pp. 96, 2012. (Poster) [[Link]](http://www.riss.kr/link?id=A101342573)
 
-* J. Kim, S. Kim, K. Lee, H. Kim, J. Jun, Y. Jeong, M. Kim, J. Lee and C. Lee, “(Korean) Nano-indenter를 통한 유기발광소자(OLED)용 Ag전극의 표면처리에 따른 물성변화 연구”, *Annual conference of the Korean Vacuum Society* v. 41, 2011, pp. 224
+* J. Kim, S. Kim, K. Lee, **H. Kim**, J. Jun, Y. Jeong, M. Kim, J. Lee and C. Lee, “(Korean) Nano-indenter를 통한 유기발광소자(OLED)용 Ag전극의 표면처리에 따른 물성변화 연구”, *Annual conference of the Korean Vacuum Society* v. 41, 2011, pp. 224
