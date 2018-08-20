@@ -9,7 +9,7 @@ classes: wide
 
 ![times in florence](/assets/images/about_splash.jpg)
 
-Hyeongkeun ‘Hugo’ Kim currently a senior student in KAIST and pursuing his undergraduate degree in Mechanical Engineering, with a dual major in Bio-Brain engineering (Spring 2020). From 2013 to 2015, Hugo was a recipient of Korea Presidential Science Scholarship. 
+Hyeongkeun ‘Hugo’ Kim is currently a senior student in KAIST and pursuing his undergraduate degree in Mechanical Engineering, with a dual major in Bio-Brain engineering (Spring 2020). From 2013 to 2015, Hugo was a recipient of Korea Presidential Science Scholarship. 
 
 Hugo is interested in Robotics, Automation in Biology, Lab-on-a-Chip and Machine Learning.
 
