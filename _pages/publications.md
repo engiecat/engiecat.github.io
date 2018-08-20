@@ -29,7 +29,7 @@ classes: wide
 
 * U. Kwon, **H. Kim**, M. C. Nah and J. Choe, “Rocker-Bogie with ‘Tusk’: Design of the mobile robot platform that can climb stairs with Tusk and rocker-bogie mechanism” in *12nd Korea Robotics Society Annual Conference*, Pyeongchang, Rep. of Korea, 2017 
 
-* K. Kim, **H. Kim**, H. Roh, H. Choi, “Flying BioLab : A CanSat platform for sampling and monitoring air bacteria in bio-hazardous area”, in 2014 KSAS(Korea Society for Aeronautical & Space Sciences) Fall Conference, Organized Session, pp. 86. [[Link]](http://www.riss.kr/link?id=A100498461)
+* K. Kim, **H. Kim**, H. Roh, H. Choi, “Flying BioLab : A CanSat platform for sampling and monitoring air bacteria in bio-hazardous area”, in *2014 KSAS(Korea Society for Aeronautical & Space Sciences) Fall Conference*, Organized Session, pp. 86. [[Link]](http://www.riss.kr/link?id=A100498461)
 
 * **H. Kim**, J. Hyun, S. Jo, J. Choe, S. Hong, “A Study on the Remote Swarm Robot Control based on Flexible Master/Slave Relationship Algorithm”, *2014 Korea Computer Congress(KCC)*, pp.1701-03. [ISSN 1598-5164] (Poster)
 
