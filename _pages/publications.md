@@ -5,6 +5,8 @@ excerpt: "Hyeongkeun Kim, A MechEng student, who loves biology, robotics, and me
 classes: wide
 
 ---
+<u>Underlined Names</u>: equally contributed
+
 ### Peer-reviewed Journal Articles ###
 
 * <u>K. Kim</u>, **<u>H. Kim</u>**, S. Kim, J. S. Jeon, "MineLoC: A Rapid Production of Lab-on-a-Chip Biosensors Using 3D Printer and the Sandbox Game, Minecraft" *Sensors* 18.6 (2018): 1896
