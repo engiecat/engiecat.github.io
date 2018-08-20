@@ -11,6 +11,7 @@ header:
   teaser: /assets/images/logo_naver.png
 ---
 
-### TEST ###
-# NAVERLABS #
-Sample document listing for the collection `_portfolio`.
+**Robotics Group, NAVER Labs, NAVER Corp. (Currently NAVER LABS Corp.)**  
+Full-time Research Intern (Supervisor: Sangok Seok, Ph. D.), August 2016 ~ February 2017
+
+## TuskBot: A Universal Stair-Climbing Wheeled Robot for Indoor Service Robots ##
