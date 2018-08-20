@@ -18,6 +18,7 @@ During 2016 Fall, I was a full-time research intern at NAVER LABS Robotics Group
 
 
 ## TuskBot: A Universal Stair-Climbing Wheeled Robot for Indoor Service Robots ##
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IULJ0DS0BqU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Achieving universal mobility in general indoor settings with the wheeled robot was given as an intern team project. In other words, the robot should climb staircases regardless of its dimension and structure. 
