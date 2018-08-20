@@ -31,10 +31,10 @@ classes: wide
 
 * K. Kim, **H. Kim**, H. Roh, H. Choi, “Flying BioLab : A CanSat platform for sampling and monitoring air bacteria in bio-hazardous area”, in 2014 KSAS(Korea Society for Aeronautical & Space Sciences) Fall Conference, Organized Session, pp. 86. [[Link]](http://www.riss.kr/link?id=A100498461)
 
-* **H. Kim**, J. Hyun, S. Jo, J. Choe, S. Hong, “A Study on the Remote Swarm Robot Control based on Flexible Master/Slave Relationship Algorithm”, 2014 Korea Computer Congress(KCC), pp.1701-03. [ISSN 1598-5164] (Poster)
+* **H. Kim**, J. Hyun, S. Jo, J. Choe, S. Hong, “A Study on the Remote Swarm Robot Control based on Flexible Master/Slave Relationship Algorithm”, *2014 Korea Computer Congress(KCC)*, pp.1701-03. [ISSN 1598-5164] (Poster)
 
-* J. Hyun, H. Kim, S. Jo, J. Choe, S. Hong, “A Design and Implementation of Auto Water Robot Module for Plant Care System”, 2014 Korea Computer Congress(KCC), pp.1803-1805 . [ISSN 1598-5164] (Poster)
+* J. Hyun, H. Kim, S. Jo, J. Choe, S. Hong, “A Design and Implementation of Auto Water Robot Module for Plant Care System”, *2014 Korea Computer Congress(KCC)*, pp.1803-1805 . [ISSN 1598-5164] (Poster)
 
 * **H. Kim**, S. Park, J. Park, I. Song, “Building H-R Diagram of Star Clusters with DSLR Camera and its Educational Application”(Korean: 카메라를 사용한 성단의 H-R도 작성 및 교육적 활용), The Bulletin of the Korean astronomical society, v. 37 no. 2, pp. 96, 2012. (Poster) [[Link]](http://www.riss.kr/link?id=A101342573)
 
-* J. Kim, S. Kim, K. Lee, H. Kim, J. Jun, Y. Jeong, M. Kim, J. Lee and C. Lee, “(Korean) Nano-indenter를 통한 유기발광소자(OLED)용 Ag전극의 표면처리에 따른 물성변화 연구”, Annual conference of the Korean Vacuum Society v. 41, 2011, pp. 224
+* J. Kim, S. Kim, K. Lee, H. Kim, J. Jun, Y. Jeong, M. Kim, J. Lee and C. Lee, “(Korean) Nano-indenter를 통한 유기발광소자(OLED)용 Ag전극의 표면처리에 따른 물성변화 연구”, *Annual conference of the Korean Vacuum Society* v. 41, 2011, pp. 224
