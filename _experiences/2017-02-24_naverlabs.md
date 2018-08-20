@@ -14,19 +14,19 @@ header:
 **Robotics Group, NAVER Labs, NAVER Corp. (Currently NAVER LABS Corp.)**  
 Full-time Research Intern (Supervisor: Sangok Seok, Ph. D.), August 2016 ~ February 2017
 
-During 2016 Fall, I was a full-time research intern at NAVER LABS Robotics Group, led by Sangok Seok, Ph. D. During the internship, we assisted the senior researchers in the Robotics group, such as designing structural components of Autonomous Personal Transporter. Additionally, the interns were given a team project(mentioned below) with the strong support from senior researchers and the group leader. 
+During 2016 Fall, I was a full-time research intern at NAVER LABS Robotics Group, led by Dr. Sangok Seok. During the internship, we assisted the senior researchers in the Robotics group, such as designing structural components of Autonomous Personal Transporter. Additionally, the interns were given a team project(mentioned below) with the strong support from senior researchers and the group leader. 
 
 
 ## TuskBot: A Universal Stair-Climbing Wheeled Robot for Indoor Service Robots ##
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IULJ0DS0BqU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-As an intern project, achieving universal mobility in general indoor settings with wheeled robot was given as a challenge. In other words, the robot should climb staircases regardless of its dimension and structure. 
+Achieving universal mobility in general indoor settings with the wheeled robot was given as an intern team project. In other words, the robot should climb staircases regardless of its dimension and structure. 
 
-While track-based robots could be used to climb stairs, its structure caused damages on the floor, making it unsuitable for indoor use. TuskBot, a robot platform inspired from tusk of rhinos and elephants, successfully climbed any given stairs(that satisfy National Building Codes) with only wheels. 
+While track-based robots could be used to climb stairs, its structure caused damages on the floor, making it unsuitable for indoor use. TuskBot, a robot platform inspired by tusk of rhinos and elephants, successfully climbed any given stairs(that satisfy National Building Codes) with only wheels. 
 
 Designed for simplicity, the platform requires only 4 wheels and a simple structural component('Tusk'), contrary to conventional platforms (e.g. SHRIMP, Rocker-Bogie).
 
-In the intern team, I led the analysis for the optimization for the TuskBot structure, and prepared the manuscript for publications.
+In the intern team, I led the analysis for the optimization of the TuskBot structure and prepared the manuscript for publications.
 
 The result had been published in IROS 2017, featured in [DEVIEW 2017](https://youtu.be/im0Xpmn_in0?t=29m34s), received extensive domestic media coverage ([Chosun-ilbo](http://biz.chosun.com/site/data/html_dir/2017/06/25/2017062501522.html), [SBS-CNBC](http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000878098), [ZDNet Korea](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20171016113135) and so on), and a patent application is pending. 
 
