@@ -33,7 +33,7 @@ classes: wide
 
 * **H. Kim**, J. Hyun, S. Jo, J. Choe, S. Hong, “A Study on the Remote Swarm Robot Control based on Flexible Master/Slave Relationship Algorithm”, *2014 Korea Computer Congress(KCC)*, pp.1701-03. [ISSN 1598-5164] (Poster)
 
-* J. Hyun, H. Kim, S. Jo, J. Choe, S. Hong, “A Design and Implementation of Auto Water Robot Module for Plant Care System”, *2014 Korea Computer Congress(KCC)*, pp.1803-1805 . [ISSN 1598-5164] (Poster)
+* J. Hyun, **H. Kim**, S. Jo, J. Choe, S. Hong, “A Design and Implementation of Auto Water Robot Module for Plant Care System”, *2014 Korea Computer Congress(KCC)*, pp.1803-1805 . [ISSN 1598-5164] (Poster)
 
 * **H. Kim**, S. Park, J. Park, I. Song, “Building H-R Diagram of Star Clusters with DSLR Camera and its Educational Application”(Korean: 카메라를 사용한 성단의 H-R도 작성 및 교육적 활용), The Bulletin of the Korean astronomical society, v. 37 no. 2, pp. 96, 2012. (Poster) [[Link]](http://www.riss.kr/link?id=A101342573)
 
