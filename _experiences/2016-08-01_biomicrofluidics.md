@@ -12,7 +12,7 @@ header:
 **Department of Mechanical Engineering, KAIST**  
 Undergraduate Student Researcher, June 2016 ~ June 2018
 
-From 2016 Summer, I was an undergraduate researcher in Biomicrofluidics Lab. of KAIST. The mission of the lab is "to understand the mechanism of biological phenomenon by employing microfluidic platform".
+From 2016 Summer, I was an undergraduate researcher in [Biomicrofluidics Lab.](jeon.kaist.ac.kr) of KAIST. The mission of the lab is "to understand the mechanism of biological phenomenon by employing microfluidic platform".
 
 During my time in Biomicrofluidics, I learned the basics of microfluidics research, as well as practiced several protocols common in the biological research. Additionally, under the supervision of Prof. Jessie S. Jeon and assistance from Seunggyu Kim and Wanho Kim, I participated in the following projects. 
 
