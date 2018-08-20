@@ -7,7 +7,7 @@ classes: wide
 ---
 ### Peer-reviewed Journal Articles ###
 
-* K. Kim*, **H. Kim***, S. Kim, J. S. Jeon, "MineLoC: A Rapid Production of Lab-on-a-Chip Biosensors Using 3D Printer and the Sandbox Game, Minecraft" *Sensors* 18.6 (2018): 1896
+* <u>K. Kim</u>, <u>**H. Kim**</u>, S. Kim, J. S. Jeon, "MineLoC: A Rapid Production of Lab-on-a-Chip Biosensors Using 3D Printer and the Sandbox Game, Minecraft" *Sensors* 18.6 (2018): 1896
 (**Co-first author**, Indexed for SCIE) [[Link]](http://www.mdpi.com/1424-8220/18/6/1896)
 
 * K. Kim, **H. Kim** and H. Myung, “Bio-inspired robot swarm control algorithm for dynamic environment monitoring”. *Advances in Robotics Research* 2.1 (2018):1-11 [[Link]](http://dx.doi.org/10.12989/arr.2018.2.1.001)
@@ -22,9 +22,9 @@ classes: wide
 
 * D. Choi, M. Kim, **H. Kim**, J. Choe, M. C. Nah, “Motion Planning of Autonomous Personal Transporter Using Model Predictive Control for Minimizing Non-Minimum Phase Behavior” in *15th International Conference on Ubiquitous Robots (UR 2018)*, Honolulu, USA, 2018 (**Best Application Paper Award**)
 
-* J. Choe*, U. Kwon*, M. C. Nah* and **H. Kim***, “‘Design Analysis of TuskBot: Universal Stair Climbing 4-Wheel Indoor Robot” in *2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Vancouver, 2017, pp. 6908-6914. (**Corresponding Author, Co-first Author**) [[Link]](http://ieeexplore.ieee.org/document/8206614/)
+* <u>J. Choe</u>, <u>U. Kwon</u>, <u>M. C. Nah</u> and <u>**H. Kim**</u>, “‘Design Analysis of TuskBot: Universal Stair Climbing 4-Wheel Indoor Robot” in *2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Vancouver, 2017, pp. 6908-6914. (**Corresponding Author, Co-first Author**) [[Link]](http://ieeexplore.ieee.org/document/8206614/)
 
-* J. Choe*, M. C. Nah*, **H. Kim*** and U. Kwon*, “‘TuskBot’: Design of the Mobile Stair Climbing 2 By 2 Wheels Robot Platform with Novel Passive Structure ‘Tusk’” *Proc. 2017 3rd International Conference on Control, Automation and Robotics (ICCAR)*. IEEE, Apr. 2017, pp. 217-220, 
+* <u>J. Choe</u>, <u>M. C. Nah</u>, <u>**H. Kim**</u> and <u>U. Kwon</u>, “‘TuskBot’: Design of the Mobile Stair Climbing 2 By 2 Wheels Robot Platform with Novel Passive Structure ‘Tusk’” *Proc. 2017 3rd International Conference on Control, Automation and Robotics (ICCAR)*. IEEE, Apr. 2017, pp. 217-220, 
 (Co-First Author) [[Link]](https://ieeexplore.ieee.org/document/7942690/)
 
 * U. Kwon, **H. Kim**, M. C. Nah and J. Choe, “Rocker-Bogie with ‘Tusk’: Design of the mobile robot platform that can climb stairs with Tusk and rocker-bogie mechanism” in *12nd Korea Robotics Society Annual Conference*, Pyeongchang, Rep. of Korea, 2017 
