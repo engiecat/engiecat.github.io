@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Hyeongkeun Kim, A MechEng student, who loves biology, robotics, and merging them for the better."
+classes: wide
 
 ---
 **CV** - Please download the pdf version [here](/assets/CV_HKim.pdf) (August 2018)
