@@ -17,9 +17,9 @@ Team W5, Microrobot Research, KAIST
 
 In this project, an open source, low power sensor node was developed to check the growth of mycobacteria in a culture bottle with a nitrate reductase assay method for a drug susceptibility test. 
 
-Current TB diagnosis is finalized with culture test, which takes approximately 8 weeks. Conventionally this was done manually by pathologists, which caused high complexity, labor and probability of failure to workers. In contrast, this project aimed for minimal human interaction with the samples. 
+Current TB diagnosis is finalized with a culture test, which takes approximately 8 weeks. Conventionally this was done manually by pathologists, which caused high complexity, labor, and the probability of failure to workers. In contrast, this project aimed for minimal human interaction with the samples. 
 
-Powered by Intel Galileo, the system automatically maintains the temperature of culture chamber and monitors the growth of microbes via image processing of the solid culture bottle (Ogawa Medium) and Optical Density measurement of the Middlebrook 7H9 OADC liquid medium. Liquid medium monitoring provides preliminary results in 4 weeks. The system can be monitored on-line via web-based interface. 
+Powered by Intel Galileo, the system automatically maintains the temperature of culture chamber and monitors the growth of microbes via image processing of the solid culture bottle (Ogawa Medium) and Optical Density measurement of the Middlebrook 7H9 OADC liquid medium. Liquid medium monitoring provides preliminary results in 4 weeks. The system can be monitored on-line via a web-based interface. 
 
 The result had been awarded **Grand Prize in High-tech Medical Service** in World Embedded Software Contest 2014, featured in **2014 Intel Korea Year-End Press Conference**, and received domestic media coverage from [CNET Korea](https://www.cnet.co.kr/view/123762) and so on.
 
@@ -34,8 +34,8 @@ In Spring 2016, as a course project, we have developed a fully-automatic fluores
 
 ![Prototype Microscope ](/assets/images/20160721_CD401_microscope.jpg)
 
-The image acquired from the microscope was analyzed by via deep convolutional network(VGG-VD-16). Due to the small amount of diagnosed and certified data (approx. 350 positives), we have utilized various techniques, such as transfer learning, data augmentation and utilization of SVM instead of SoftMax layer. We have achieved 90.3% of acccuracy (sensitivity: 92.1%, specificity: 87.6%), which is higher than previous literatures (TBDx: 84%, InSpace In-house: 73%)
+The image acquired from the microscope was analyzed by via deep convolutional network(VGG-VD-16). Due to the small amount of diagnosed and certified data (approx. 350 positives), we have utilized various techniques, such as transfer learning, data augmentation and utilization of SVM instead of SoftMax layer. We have achieved 90.3% of accuracy (sensitivity: 92.1%, specificity: 87.6%), which is higher than previous literatures (TBDx: 84%, InSpace In-house: 73%)
 
-As the team captain, I had proposed the idea, distributed work for each members and developed image processing part of the system. 
+As the team captain, I had proposed the idea, distributed work for each member and developed image processing part of the system. 
 
 ![Result shown by DAS:TB](/assets/images/20160721_CD401_MATLAB.jpg)
