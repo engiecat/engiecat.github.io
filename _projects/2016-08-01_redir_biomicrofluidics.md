@@ -9,5 +9,5 @@ read_time: false
 header:
   teaser: /assets/images/mineloc_teaser.png
 redirect_to:
-  - /experiences/labonachip
+  - https://engiecat.github.io/experiences/labonachip
 ---
