@@ -21,7 +21,7 @@ First formed to compete in Korea CanSat Competition, Team W5 consisted of studen
 
 Additionally, we successfully designed and built a 3D-printed platform for CanSats([Link](https://www.thingiverse.com/thing:425904)), that features standardized power-signal ports, fully-functional AHRS, and configurable mission modules. This also featured web-server based ground station, with responsive web design.
 
-![Web-server based CanSat Ground Station](assets/images/20140809_cansat_gs.jpg)
+![Web-server based CanSat Ground Station](/assets/images/20140809_cansat_gs.jpg)
 
 The CanSat was rewarded 2nd prize (President of KAIST), and the result had been presented in 2014 KSAS(Korean Society for Aeronautical and Space Sciences) Fall Conference as an oral presentation.
 
