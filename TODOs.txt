@@ -1,0 +1,4 @@
+TODOs
+
+1. Add link to the picture in the archive 
+2. Make space to the display in the grid view (e.g. experiences index) so the different topics are not shown in the same display 

@@ -8,12 +8,13 @@ share: true
 classes: wide
 read_time: false
 header:
-  image: /assets/images/robotics_header.jpg
   teaser: /assets/images/logo_naver.png
 ---
 
 **Robotics Group, NAVER Labs, NAVER Corp. (Currently NAVER LABS Corp.)**  
 Full-time Research Intern (Supervisor: Sangok Seok, Ph. D.), August 2016 ~ February 2017
+
+![NAVER LABS 2nd Super Interns!](/assets/images/robotics_header.jpg)
 
 During 2016 Fall, I was a full-time research intern at NAVER LABS Robotics Group, led by Dr. Sangok Seok. During the internship, we assisted the senior researchers in the Robotics group, such as designing structural components of Autonomous Personal Transporter. Additionally, the interns were given a team project(mentioned below) with the strong support from senior researchers and the group leader. 
 

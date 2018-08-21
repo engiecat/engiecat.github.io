@@ -7,7 +7,7 @@ share: true
 classes: wide
 read_time: false
 header:
-  image: /assets/images/20140809_at_narospacecenter.jpg
+  image: /assets/images/20140809_cansat_launch.jpg
   teaser: /assets/images/litmus_biolabs.png
 ---
 
@@ -15,6 +15,8 @@ header:
 Team W5, Microrobot Research, KAIST
 
 ## Flying BioLab - Automatic detection system for microbes in biohazardous area (2014) ##
+
+![Fun Times at the competition](/assets/images/20140809_at_narospacecenter.jpg)
 
 Initially founded to compete in Korea CanSat Competition, Team W5 consisted of students with various backgrounds, from Bioengineering to Aerospace engineering. Based on such diversity, we decided to build a CanSat that can measure biological contaminants (microbes) on-site in the bio-hazardous environment (e.g. Anthrax-contaminated area). The contamination is measured on-site, by culturing microbes and monitoring the medium’s optical density. 
 
