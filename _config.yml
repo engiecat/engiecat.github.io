@@ -137,6 +137,7 @@ include:
   - .htaccess
   - _pages
   - _experiences
+  - _projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -260,7 +261,7 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
-  project:
+  projects:
     output: true
     permalink: /:collection/:path/
     
