@@ -41,5 +41,5 @@ The data could be monitored remotely via the web-based monitoring system.
 
 The result was awarded **Grand Prize (President of Samsung SDS, 2,700$)** in the 2014 Samsung SDS S/W Club Championship. 
 
-The derivative work which focused on the detection system had been published in Sensors journal. ([Details](/experiences/labonachip))
+The derivative work which focused on the detection system had been published in Sensors journal. ([Details](/experiences/labonachip), [paper](http://www.mdpi.com/1424-8220/16/12/2179))
 

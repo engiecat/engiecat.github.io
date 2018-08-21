@@ -1,6 +1,6 @@
 ---
 title: "TuskBot"
-excerpt: ""
+excerpt: "A wheeled robot that can climb any given stairs"
 collection: projects
 permalink: /projects/tuskbot
 breadcrumb: true

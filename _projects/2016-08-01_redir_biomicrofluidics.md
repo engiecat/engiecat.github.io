@@ -1,6 +1,6 @@
 ---
 title: "Project MineLoC"
-excerpt: ""
+excerpt: "A Minecraft based tool for designing Lab-on-a-Chip"
 collection: projects
 permalink: /projects/labonachip
 breadcrumb: true
