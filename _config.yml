@@ -287,7 +287,7 @@ defaults:
       author_profile: true
       sort_order: reverse
   - scope:
-      path: ""
+      path: "_experiences"
       type: experiences
     values:
       layout: single
@@ -297,7 +297,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: ""
+      path: "_projects"
       type: projects
     values:
       layout: single
