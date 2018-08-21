@@ -17,7 +17,7 @@ From 2016 Summer, I was an undergraduate researcher in [Biomicrofluidics Lab.](h
 
 During my time in Biomicrofluidics, I learned the basics of microfluidics research, as well as practiced several protocols common in the biological research. Additionally, under the supervision of Prof. Jessie S. Jeon and assistance from Seunggyu Kim and Wanho Kim, I participated in the following projects. 
 
-## MineLoC: A Rapid Production of Lab-on-a-Chip Biosensors Using 3D Printer and the Sandbox Game, Minecraft ##
+## MineLoC: A Rapid Production of Lab-on-a-Chip Biosensors Using 3D Printer and the Sandbox Game, Minecraft (2018) ##
 ![MineLoC Schematic Diagram](/assets/images/mineloc_header.png)
 
 **In short**: Developed a pipeline for designing and producing master templates (molds) for Lab-on-a-Chip using a popular sandbox game 'Minecraft'. Achieved high accuracy while retaining user-friendliness of the game. 
