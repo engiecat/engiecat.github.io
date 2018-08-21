@@ -8,5 +8,5 @@ share: true
 classes: wide
 read_time: false
 header:
-  teaser: /assets/images/litmus_biolabs.jpg
+  teaser: /assets/images/litmus_biolabs.png
 ---
