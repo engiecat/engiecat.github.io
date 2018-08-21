@@ -1,6 +1,7 @@
 ---
 title: "Project MineLoC"
 excerpt: ""
+collection: projects
 permalink: /projects/labonachip
 breadcrumb: true
 share: true

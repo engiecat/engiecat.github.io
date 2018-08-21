@@ -1,6 +1,7 @@
 ---
 title: "TuskBot"
 excerpt: ""
+collection: projects
 permalink: /projects/tuskbot
 breadcrumb: true
 share: true
