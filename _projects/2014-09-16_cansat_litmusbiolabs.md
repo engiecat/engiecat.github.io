@@ -1,7 +1,7 @@
 ---
 title: "Litmus BioLabs"
 excerpt: "Automatic detection system for microbes"
-collection: projects
+collection: "projects"
 permalink: /projects/litmusbiolabs
 breadcrumb: true
 share: true
@@ -14,13 +14,12 @@ header:
 
 **Project Litmus BioLabs - an Automatic detection system for microbes (2014)**
 Team W5, Microrobot Research, KAIST
-https://www.thingiverse.com/thing:425904
 
 ### Flying BioLab - Automatic detection system for microbes in biohazardous area (2014) ###
 
 First formed to compete in Korea CanSat Competition, Team W5 consisted of students with various backgrounds, from Bioengineering to Aerospace engineering. Based on such diversity, we decided to build a CanSat that can measure biological contaminants (microbes) on-site in the bio-hazardous environment (e.g. Anthrax-contaminated area). The contamination is measured on-site, by culturing microbes and monitoring the medium’s optical density. 
 
-Additionally, we successfully designed and built a 3D-printed platform for CanSats, that features standardized power-signal ports, fully-functional AHRS, and configurable mission modules. This also featured web-server based ground station, with responsive web design.
+Additionally, we successfully designed and built a 3D-printed platform for CanSats([Link](https://www.thingiverse.com/thing:425904)), that features standardized power-signal ports, fully-functional AHRS, and configurable mission modules. This also featured web-server based ground station, with responsive web design.
 
 ![Web-server based CanSat Ground Station](assets/images/20140809_cansat_gs.jpg)
 
