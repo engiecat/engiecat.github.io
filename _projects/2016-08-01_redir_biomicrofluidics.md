@@ -1,6 +1,6 @@
 ---
-title: "Works in Biomicrofluidics (Project MineLoC)"
-excerpt: "Projects done in Biomicrofluidics Lab. KAIST"
+title: "Project MineLoC"
+excerpt: ""
 permalink: /projects/labonachip
 breadcrumb: true
 share: true
