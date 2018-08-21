@@ -1,4 +1,5 @@
 TODOs
 
-1. Add link to the picture in the archive 
-2. Make space to the display in the grid view (e.g. experiences index) so the different topics are not shown in the same display 
+1. Add link to the picture in the archive (sim with 2?)
+2. Make space to the display in the grid view (e.g. experiences index) so the different topics are not shown in the same display  (use custom css and import it in _layeout\head.html)
+3. remove disturbing header images (DONE)
