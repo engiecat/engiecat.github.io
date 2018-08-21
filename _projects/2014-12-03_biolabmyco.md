@@ -8,7 +8,7 @@ classes: wide
 read_time: false
 ---
 
-**Project BioLabMYCO - An Automatic Detection System for Tuberculosis Diagnosis)**  
+**Project BioLabMYCO - An Automatic Detection System for Tuberculosis Diagnosis (2014-2016)**  
 Team W5, Microrobot Research, KAIST
 
 ## A Low Cost/Low Power Open Source Sensor System for Automated Tuberculosis Drug Susceptibility Testing (2014-2016) ##
@@ -21,7 +21,7 @@ Current TB diagnosis is finalized with a culture test, which takes approximately
 
 Powered by Intel Galileo, the system automatically maintains the temperature of culture chamber and monitors the growth of microbes via image processing of the solid culture bottle (Ogawa Medium) and Optical Density measurement of the Middlebrook 7H9 OADC liquid medium. Liquid medium monitoring provides preliminary results in 4 weeks. The system can be monitored on-line via a web-based interface. 
 
-The result had been awarded **Grand Prize in High-tech Medical Service** in World Embedded Software Contest 2014, featured in **2014 Intel Korea Year-End Press Conference**, and received domestic media coverage from [CNET Korea](https://www.cnet.co.kr/view/123762) and so on.
+The result had been awarded **Grand Prize in High-tech Medical Service(2,700$)** in World Embedded Software Contest 2014, featured in **2014 Intel Korea Year-End Press Conference**, and received domestic media coverage from [CNET Korea](https://www.cnet.co.kr/view/123762) and so on.
 
 The work was published in Sensors as a journal article. 
 

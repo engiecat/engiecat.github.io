@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/litmus_biolabs.png
 ---
 
-**Project Litmus BioLabs - an Automatic detection system for microbes(2014)**  
+**Project Litmus BioLabs - an Automatic detection system for microbes(2014-2016)**  
 Team W5, Microrobot Research, KAIST
 
 ## Flying BioLab - Automatic detection system for microbes in biohazardous area (2014) ##
@@ -22,7 +22,7 @@ Additionally, we successfully designed and built a 3D-printed platform for CanSa
 
 ![Web-server based CanSat Ground Station](/assets/images/20140809_cansat_gs.jpg)
 
-The CanSat was rewarded 2nd prize (President of KAIST), and the result had been presented in 2014 KSAS(Korean Society for Aeronautical and Space Sciences) Fall Conference as an oral presentation.
+The CanSat was rewarded **2nd prize** (President of KAIST, 1,800$), and the result had been presented in 2014 KSAS(Korean Society for Aeronautical and Space Sciences) Fall Conference as an oral presentation.
 
 K. Kim, **H. Kim**, H. Roh, H. Choi, “Flying BioLab : A CanSat platform for sampling and monitoring air bacteria in bio-hazardous area”, in *2014 KSAS(Korea Society for Aeronautical & Space Sciences) Fall Conference*, Organized Session, pp. 86. [[Link]](http://www.riss.kr/link?id=A100498461)
 
@@ -39,7 +39,7 @@ A chromogenic enzyme substrate assay method was used to easily detect coliform b
 
 The data could be monitored remotely via the web-based monitoring system.
 
-The result was awarded **Grand Prize (President of Samsung SDS)** in the 2014 Samsung SDS S/W Club Championship. 
+The result was awarded **Grand Prize (President of Samsung SDS, 2,700$)** in the 2014 Samsung SDS S/W Club Championship. 
 
 The derivative work which focused on the detection system had been published in Sensors journal. ([Details](/experiences/labonachip))
 
