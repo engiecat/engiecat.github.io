@@ -2,8 +2,8 @@
 title: "Projects"
 author_profile: true
 layout: collection
-sort_order: reverse
 collection: "projects"
+sort_order: reverse
 permalink: /projects/index.html
 entries_layout: grid
 classes: wide
