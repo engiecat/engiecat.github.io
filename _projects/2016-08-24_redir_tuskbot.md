@@ -1,7 +1,7 @@
 ---
 title: "TuskBot"
 excerpt: ""
-permalink: /projects/labonachip
+permalink: /projects/tuskbot
 breadcrumb: true
 share: true
 classes: wide
