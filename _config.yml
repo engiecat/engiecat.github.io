@@ -296,3 +296,13 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
