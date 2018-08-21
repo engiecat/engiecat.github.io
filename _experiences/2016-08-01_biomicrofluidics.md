@@ -2,6 +2,7 @@
 title: "Biomicrofluidics Lab., KAIST"
 excerpt: "Undergraduate Student Researcher (2016 - 2018, Prof. Jessie S. Jeon)"
 permalink: /experiences/labonachip
+collection: experiences
 breadcrumb: true
 share: true
 classes: wide
