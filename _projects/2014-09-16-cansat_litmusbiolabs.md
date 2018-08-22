@@ -22,7 +22,8 @@ Initially founded to compete in Korea CanSat Competition, Team W5 consisted of s
 
 Additionally, we successfully designed and built a 3D-printed platform for CanSats([Link](https://www.thingiverse.com/thing:425904)), that features standardized power-signal ports, fully-functional AHRS, and configurable mission modules. This also featured web-server based ground station, with responsive web design.
 
-![Web-server based CanSat Ground Station](/assets/images/20140809_cansat_gs.jpg)
+![Web-server based CanSat Ground Station](/assets/images/20140809_cansat_gs.jpg)  
+*Web-server based CanSat Ground Station*
 
 The CanSat was rewarded **2nd prize** (President of KAIST, 1,800$), and the result had been presented in 2014 KSAS(Korean Society for Aeronautical and Space Sciences) Fall Conference as an oral presentation.
 
@@ -33,9 +34,8 @@ K. Kim, **H. Kim**, H. Roh, H. Choi, “Flying BioLab : A CanSat platform for sa
 
 Based on the results we have gathered during the CanSat competition, we decided to apply our technology to the field of aquaponics (Plant Factory). In such an environment, where usage of antimicrobials is very limited, waterborne microbes, such as E. coli, pose a severe threat. While manual sampling had been used in small-scale, the number of diagnosis samples may be large and handling daily portions is likely to be labor intensive in large-scale factory settings.
 
-![Litmus BioLabs - a prototype with automatic sampling system removed for clarity.](/assets/images/2018_08_24_SDSLitmus.jpg)
-
-The prototype with automatic sampling system removed (Normally the samples are loaded via pumps)
+![Litmus BioLabs - a prototype with automatic sampling system removed for clarity.](/assets/images/2018_08_24_SDSLitmus.jpg)  
+*The prototype with automatic sampling system removed (Normally the samples are loaded via pumps)*
 
 A chromogenic enzyme substrate assay method was used to easily detect coliform bacteria by monitoring the color change of the sampled water mixed with a reagent. Live webcam image streaming to the web browser of the end user with a Wi-Fi connected sensor node shows the water color changes in real time. Such changes are detected automatically and reported to the user, while the webcam feed can be directly observed. Additionally, Optical Density was measured for liquid medium. Image streaming and web console servers run on Raspberry Pi.
 

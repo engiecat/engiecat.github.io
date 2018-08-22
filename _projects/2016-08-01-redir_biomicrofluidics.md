@@ -10,5 +10,5 @@ read_time: false
 header:
   teaser: /assets/images/mineloc_teaser.png
 redirect_to:
-  - https://engiecat.github.io/experiences/labonachip
+  - /experiences/labonachip#mineloc-a-rapid-production-of-lab-on-a-chip-biosensors-using-3d-printer-and-the-sandbox-game-minecraft-2018
 ---

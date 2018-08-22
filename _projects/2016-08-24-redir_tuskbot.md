@@ -10,5 +10,5 @@ read_time: false
 header:
   teaser: /assets/images/tuskbot.jpg
 redirect_to:
-  - https://engiecat.github.io/experiences/naverlabs
+  - /experiences/naverlabs#tuskbot-a-universal-stair-climbing-wheeled-robot-for-indoor-service-robots
 ---
