@@ -1,6 +1,6 @@
 ---
 title: "Robotics Group, NAVER LABS Corp."
-excerpt: "NAVER LABS Corp. Robotics Lab. Research Internship from Aug. 2016 to Feb. 2017"
+excerpt: "Full-time Research Internship from Aug. 2016 to Feb. 2017"
 permalink: /experiences/naverlabs
 collection: experiences
 breadcrumb: true

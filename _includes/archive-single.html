@@ -11,16 +11,27 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+  <style>
+    .archive__item {
+        box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        background: #f3f6f6;
+        height: 300px;
+        border-radius: 2px;
+        padding: 10px;
+    }
+  </style>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | relative_url }}"
-          {% endif %}
-          alt="">
+        <a href = "{{ post.url | relative_url }}">
+          <img src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% else %}
+              "{{ teaser | relative_url }}"
+            {% endif %}
+            alt="">
+        </a>
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
