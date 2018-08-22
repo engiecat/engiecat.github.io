@@ -283,7 +283,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
   - scope:
       path: "_pages"
       type: pages
@@ -300,7 +300,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
   - scope:
       path: "_projects"
       type: projects
@@ -310,4 +310,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
