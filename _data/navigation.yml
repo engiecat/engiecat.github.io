@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Bio/CV"
+  - title: "Bio / CV"
     url: "/about/"
   - title: "Experiences"
     url: "/experiences/"
