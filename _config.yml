@@ -136,8 +136,10 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
   - _experiences
   - _projects
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -259,6 +261,9 @@ compress_html:
     envs: development
 
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
   experiences:
     output: true
     permalink: /:collection/:path/
@@ -270,7 +275,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
