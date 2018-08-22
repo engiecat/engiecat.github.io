@@ -275,6 +275,11 @@ collections:
 defaults:
   # _posts
   - scope:
+      path: ""
+      type: general
+    values:
+      related: false
+  - scope:
       path: "_posts"
       type: posts
     values:
