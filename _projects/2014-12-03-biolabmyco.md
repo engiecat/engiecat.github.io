@@ -27,7 +27,7 @@ Powered by Intel Galileo, the system automatically maintains the temperature of 
 ![Nitrate Reductase Sensor](/assets/images/20141212_biolabmyco_sensor.png)
 *Nitrate Reductase Assay module, with automatic reagent feeder and sensor*
 
-The result had been awarded **Grand Prize in High-tech Medical Service(2,700$)** in World Embedded Software Contest 2014, featured in **2014 Intel Korea Year-End Press Conference**, and received domestic media coverage from [CNET Korea](https://www.cnet.co.kr/view/123762) and so on.
+The result had been awarded **Grand Prize in High-tech Medical Service(2,700$)** in World Embedded Software Contest 2014, featured in **2014 Intel Korea Year-End Press Conference**, and received domestic media coverage from [CNET Korea](https://www.cnet.co.kr/view/123762) ([Archive](http://web.archive.org/web/20150726172013/https://www.cnet.co.kr/view/123762)) and so on.
 
 The work was published in Sensors as a journal article. 
 
