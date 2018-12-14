@@ -22,7 +22,7 @@ classes: wide
 
 ### Conference Publications and Presentations ###
 
-* D. Choi, M. Kim, **H. Kim**, J. Choe, M. C. Nah, “Motion Planning of Autonomous Personal Transporter Using Model Predictive Control for Minimizing Non-Minimum Phase Behavior” in *15th International Conference on Ubiquitous Robots (UR 2018)*, Honolulu, USA, 2018 (**Best Application Paper Award**)
+* D. Choi, M. Kim, **H. Kim**, J. Choe, M. C. Nah, “Motion Planning of Autonomous Personal Transporter Using Model Predictive Control for Minimizing Non-Minimum Phase Behavior” in *15th International Conference on Ubiquitous Robots (UR 2018)*, Honolulu, HI, 2018, pp. 362-368. (**Best Application Paper Award**)[[Link]](https://ieeexplore.ieee.org/abstract/document/8442211)
 
 * <u>J. Choe</u>, <u>U. Kwon</u>, <u>M. C. Nah</u> and **<u>H. Kim</u>**, “‘Design Analysis of TuskBot: Universal Stair Climbing 4-Wheel Indoor Robot” in *2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Vancouver, 2017, pp. 6908-6914. (**Corresponding Author, Co-first Author**) [[Link]](http://ieeexplore.ieee.org/document/8206614/)
 
