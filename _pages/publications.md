@@ -16,7 +16,7 @@ classes: wide
 
 * K. Kim, **H. Kim** and H. Myung, “Bio-inspired robot swarm control algorithm for dynamic environment monitoring”. *Advances in Robotics Research* 2.1 (2018):1-11 [[Link]](http://dx.doi.org/10.12989/arr.2018.2.1.001)
 
-* K. Kim, D. Choi, H. Lim, **H. Kim**, Jessie S. Jeon, “Vision Marker-Based In-Situ Examination of Bacterial Growth in Liquid Culture Media”. *Sensors* 16.12 (2016): 2179 [[Link]](http://www.mdpi.com/1424-8220/16/12/2179)
+* K. Kim, D. Choi, H. Lim, **H. Kim**, J. S. Jeon, “Vision Marker-Based In-Situ Examination of Bacterial Growth in Liquid Culture Media”. *Sensors* 16.12 (2016): 2179 [[Link]](http://www.mdpi.com/1424-8220/16/12/2179)
 
 * K. Kim, **H. Kim**, H. Lim, H. Myung, "A Low Cost/Low Power Open Source Sensor System for Automated Tuberculosis Drug Susceptibility Testing." *Sensors* 16.6 (2016): 942. [[Link]](http://www.mdpi.com/1424-8220/16/6/942)
 
