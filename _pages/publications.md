@@ -9,14 +9,16 @@ classes: wide
 
 ### Peer-reviewed Journal Articles ###
 
+* K. Kim, J. Hyun, **H. Kim**, H. Lim, H. Myung. "A Deep Learning-based Automatic Mosquito Sensing and Control System for Urban Mosquito Habitats". *Sensors* 19.12 (2019): 2785 [[Link]](https://www.mdpi.com/1424-8220/19/12/2785)
+
 * <u>K. Kim</u>, **<u>H. Kim</u>**, S. Kim, J. S. Jeon, "MineLoC: A Rapid Production of Lab-on-a-Chip Biosensors Using 3D Printer and the Sandbox Game, Minecraft" *Sensors* 18.6 (2018): 1896
-(**Co-first author**, Indexed for SCIE) [[Link]](http://www.mdpi.com/1424-8220/18/6/1896)
+(**Co-first author**) [[Link]](http://www.mdpi.com/1424-8220/18/6/1896)
 
 * K. Kim, **H. Kim** and H. Myung, “Bio-inspired robot swarm control algorithm for dynamic environment monitoring”. *Advances in Robotics Research* 2.1 (2018):1-11 [[Link]](http://dx.doi.org/10.12989/arr.2018.2.1.001)
 
-* K. Kim, D. Choi, H. Lim, **H. Kim**, Jessie S. Jeon, “Vision Marker-Based In-Situ Examination of Bacterial Growth in Liquid Culture Media”. *Sensors* 16.12 (2016): 2179 (Indexed for SCIE) [[Link]](http://www.mdpi.com/1424-8220/16/12/2179)
+* K. Kim, D. Choi, H. Lim, **H. Kim**, Jessie S. Jeon, “Vision Marker-Based In-Situ Examination of Bacterial Growth in Liquid Culture Media”. *Sensors* 16.12 (2016): 2179 [[Link]](http://www.mdpi.com/1424-8220/16/12/2179)
 
-* K. Kim, **H. Kim**, H. Lim, H. Myung, "A Low Cost/Low Power Open Source Sensor System for Automated Tuberculosis Drug Susceptibility Testing." *Sensors* 16.6 (2016): 942. (Indexed for SCIE) [[Link]](http://www.mdpi.com/1424-8220/16/6/942)
+* K. Kim, **H. Kim**, H. Lim, H. Myung, "A Low Cost/Low Power Open Source Sensor System for Automated Tuberculosis Drug Susceptibility Testing." *Sensors* 16.6 (2016): 942. [[Link]](http://www.mdpi.com/1424-8220/16/6/942)
 
 * J. Kim, S. Kim, K. Lee, **H. Kim**, J. Jun, Y. Jeong, M. Kim, J. Lee and C. Lee, “Nano-size Study of Surface-modified Ag Anode for OLEDs”, Journal of the Korean Vacuum Society 21.1 (2012):12-16 [[Link]](http://dx.doi.org/10.5757/JKVS.2012.21.1.12)
 
