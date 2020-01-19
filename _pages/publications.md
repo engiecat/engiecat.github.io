@@ -22,6 +22,12 @@ classes: wide
 
 * J. Kim, S. Kim, K. Lee, **H. Kim**, J. Jun, Y. Jeong, M. Kim, J. Lee and C. Lee, “Nano-size Study of Surface-modified Ag Anode for OLEDs”, Journal of the Korean Vacuum Society 21.1 (2012):12-16 [[Link]](http://dx.doi.org/10.5757/JKVS.2012.21.1.12)
 
+### Patents ###
+
+* <u>U. Kwon</u>, **<u>H. Kim</u>**, <u>M. C. Nah</u>, <u>J. Choe,</u> S. Seok, “ROBOT APPARATUS FOR CLIMBING STAIRS”, Republic of Korea Patent No. 10-2068239, Jan. 14, 2020. [[Link]](https://doi.org/10.8080/1020190099783?urlappend=en)
+
+* Y. Kim, J. Hyun, E. Kong, **H. Kim**, S. Jeon, J. Lee, "SYSTEM FOR TUBERCULOSIS DIAGNOSIS", Republic of Korea Patent Application No. 10-2016-0070908, Jun. 8, 2016. [[Link]](https://doi.org/10.8080/1020160070908?urlappend=en)
+
 ### Conference Publications and Presentations ###
 
 * D. Choi, M. Kim, **H. Kim**, J. Choe, M. C. Nah, “Motion Planning of Autonomous Personal Transporter Using Model Predictive Control for Minimizing Non-Minimum Phase Behavior” in *15th International Conference on Ubiquitous Robots (UR 2018)*, Honolulu, HI, 2018, pp. 362-368. (**Best Application Paper Award**)[[Link]](https://ieeexplore.ieee.org/abstract/document/8442211)
