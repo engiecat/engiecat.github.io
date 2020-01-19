@@ -45,6 +45,12 @@ The image acquired from the microscope was analyzed by via deep convolutional ne
 
 As the team captain, I had proposed the idea, distributed work for each member and developed image processing part of the system. 
 
+The work was submitted as a national patent application. 
+
 
 ![Result shown by DAS:TB](/assets/images/20160721_CD401_MATLAB.jpg)  
 *Result Shown by DAS:TB*
+
+### Patent Application ###
+
+* Y. Kim, J. Hyun, E. Kong, **H. Kim**, S. Jeon, J. Lee, "SYSTEM FOR TUBERCULOSIS DIAGNOSIS", Republic of Korea Patent Application No. 10-2016-0070908, Jun. 8, 2016. [[Link]](https://doi.org/10.8080/1020160070908?urlappend=en)

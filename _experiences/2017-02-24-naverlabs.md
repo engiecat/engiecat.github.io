@@ -31,7 +31,7 @@ Designed for simplicity, the platform requires only 4 wheels and a simple struct
 
 In the intern team, I led the analysis for the optimization of the TuskBot structure and prepared the manuscript for publications.
 
-The result had been published in IROS 2017, featured in [DEVIEW 2017](https://youtu.be/im0Xpmn_in0?t=29m34s), received extensive domestic media coverage ([Chosun-ilbo](http://biz.chosun.com/site/data/html_dir/2017/06/25/2017062501522.html), [SBS-CNBC](http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000878098), [ZDNet Korea](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20171016113135) and so on), and a patent application is pending. 
+The result had been published in IROS 2017, featured in [DEVIEW 2017](https://youtu.be/im0Xpmn_in0?t=29m34s), received extensive domestic media coverage ([Chosun-ilbo](http://biz.chosun.com/site/data/html_dir/2017/06/25/2017062501522.html), [SBS-CNBC](http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000878098), [ZDNet Korea](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20171016113135) and so on), and a national patent was granted for this work. 
 
 
 ### Publications ###
@@ -43,3 +43,7 @@ The result had been published in IROS 2017, featured in [DEVIEW 2017](https://yo
 (Co-First Author) [[Link]](https://ieeexplore.ieee.org/document/7942690/)
 
 * U. Kwon, **H. Kim**, M. C. Nah and J. Choe, “Rocker-Bogie with ‘Tusk’: Design of the mobile robot platform that can climb stairs with Tusk and rocker-bogie mechanism” in *12nd Korea Robotics Society Annual Conference*, Pyeongchang, Rep. of Korea, 2017 
+
+### Patents ###
+
+* <u>U. Kwon</u>, **<u>H. Kim</u>**, <u>M. C. Nah</u>, <u>J. Choe,</u> S. Seok, “ROBOT APPARATUS FOR CLIMBING STAIRS”, Republic of Korea Patent No. 10-2068239, Jan. 14, 2020. [[Link]](https://doi.org/10.8080/1020190099783?urlappend=en)
