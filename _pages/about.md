@@ -9,9 +9,9 @@ classes: wide
 
 ![times in florence](/assets/images/about_splash.jpg)
 
-Hyeongkeun ‘Hugo’ Kim is an incoming Ph.D. student (Fall 2020) in the University of Illinois at Urbana-Champaign([UIUC MechSE](https://mechse.illinois.edu/)). Hugo received his bachelor's degrees in [Mechanical Engineering](http://me.kaist.ac.kr/eng/main/main.html), with a dual major in [Bio and Brain engineering](https://bioeng.kaist.ac.kr/) at KAIST (Spring 2020, *Cum Laude*). From 2013 to 2015, Hugo was a recipient of Korea Presidential Science Scholarship. 
+Hyeongkeun ‘Hugo’ Kim is a Ph.D. student in the [Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign](https://mechse.illinois.edu/). Hugo received his bachelor's degrees in [Mechanical Engineering](http://me.kaist.ac.kr/eng/main/main.html), with a dual major in [Bio and Brain engineering](https://bioeng.kaist.ac.kr/) at KAIST (Spring 2020, *Cum Laude*). From 2013 to 2015, Hugo was a recipient of Korea Presidential Science Scholarship. 
 
-Hugo is interested in Robotics, Automation in Biology and Machine Learning.
+As a graduate student in the [UIUC Nanoengineering Laboratory](https://kinglab.mechse.illinois.edu/) (advisor: Professor William P. King), Hugo is working on digital manufacturing of soft materials.
 
 With the background in both Mechanical Engineering and Bioengineering, Hugo participated in several research projects that applied robotics to the field of biology. 
 
