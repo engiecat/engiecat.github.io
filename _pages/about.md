@@ -5,7 +5,7 @@ excerpt: "Hyeongkeun Kim, A MechEng student, who loves biology, robotics, and me
 classes: wide
 
 ---
-**CV** - Please download the pdf version [here](/assets/CV2_HKim.pdf) (January 2020)
+**CV** - Please download the pdf version [here](/assets/CV_HKim_250929_vF.pdf) (September 2025)
 
 ![times in florence](/assets/images/about_splash.jpg)
 
