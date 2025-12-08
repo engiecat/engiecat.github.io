@@ -1,13 +1,24 @@
 ---
 permalink: /publications/
 title: "Publications"
-excerpt: "Hyeongkeun Kim, A MechEng student, who loves biology, robotics, and merging them for the better."
+excerpt: "Publications"
 classes: wide
 
 ---
 <u>Underlined Names</u>: equally contributed
 
 ### Peer-reviewed Journal Articles ###
+* A. E. Rzepka, **H. Kim**, C. H. Conway, S. Özerinç, S. H. Tawfick, W. P. King, K. H. Matlack, “Architected Granular Media: a new class of Composites for Energy Absorption Applications”, *In Review*
+
+* **H. Kim**, C. H. Conway, S. Özerinç, S. H. Tawfick, W. P. King, “Predicting Mechanical Properties of Elastomer Honeycombs Using Fast Image-Based Measurements.” *Materials & Design* 254 (2025): 114119 [[Link]](https://doi.org/10.1016/j.matdes.2025.114119)
+
+* S. Kim, **H. Kim**, W. P. King, N. Miljkovic, "Optimal phase change material integration strategies for maximizing electronic device reliability." *Applied Thermal Engineering* 267 (2025): 125736 [[Link]](https://doi.org/10.1016/j.applthermaleng.2025.125736)
+
+* S. Kim, **H. Kim**, W. P. King, N. Miljkovic, “Gaussian Process Optimization of Phase Change Material Heat Sink Design “ *Numerical Heat Transfer, Part B: Fundamentals* (2023): 1-19 [[Link]](https://doi.org/10.1080/10407790.2023.2273513)
+
+* **H. Kim**, S. H. Tawfick, W. P. King, "Buckling elastomeric springs and lattices for tailored energy absorption." *Materials Today Communications* 35 (2023): 106417 [[Link]](https://doi.org/10.1016/j.mtcomm.2023.106417)
+
+* **H. Kim**, S. H. Tawfick, W. P. King. "Modeling and Design of Zero‐Stiffness Elastomer Springs Using Machine Learning." *Advanced Intelligent Systems* 4.12 (2022): 2200225 [[Link]](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200225)
 
 * K. Kim, J. Hyun, **H. Kim**, H. Lim, H. Myung. "A Deep Learning-based Automatic Mosquito Sensing and Control System for Urban Mosquito Habitats". *Sensors* 19.12 (2019): 2785 [[Link]](https://www.mdpi.com/1424-8220/19/12/2785)
 
@@ -24,11 +35,18 @@ classes: wide
 
 ### Patents ###
 
+* W. P. King, R. Bhargava, M. Bimrose, **H. Kim**, S. Mukherjee, R. Manoharaan, “Scalable closed-loop bio-manufacturing of tumor models or other volumetric biological samples”, U.S. Provisional Patent Application 63/674,595, Jul. 23, 2024
+
 * <u>U. Kwon</u>, **<u>H. Kim</u>**, <u>M. C. Nah</u>, <u>J. Choe,</u> S. Seok, “ROBOT APPARATUS FOR CLIMBING STAIRS”, Republic of Korea Patent No. 10-2068239, Jan. 14, 2020. [[Link]](https://doi.org/10.8080/1020190099783?urlappend=en)
 
 * Y. Kim, J. Hyun, E. Kong, **H. Kim**, S. Jeon, J. Lee, "SYSTEM FOR TUBERCULOSIS DIAGNOSIS", Republic of Korea Patent Application No. 10-2016-0070908, Jun. 8, 2016. [[Link]](https://doi.org/10.8080/1020160070908?urlappend=en)
 
 ### Conference Publications and Presentations ###
+*	**H. Kim**, C. H. Conway, S. Özerinç, S. H. Tawfick, W. P. King, “Graph Neural Network-based Mechanical Properties Predictions of Elastomer Lattices Using Fast Image-Based Measurements” in 2025 Society of Engineering Science Annual Technical Meeting (SES2025), Atlanta, GA, 2025 (Oral Presenter)
+*	**H. Kim,** K. Lee, S. Özerinç, S. H. Tawfick, W. P. King, “Force Estimation of Additively Manufactured Auxetic Lattices Under Large Compression Using Digital Image Tracking” in 2025 Society of Engineering Science Annual Technical Meeting (SES2025), Atlanta, GA, 2025 (Poster Presenter)
+*	S. Özerinç, **H. Kim**, C. H. Conway, S. H. Tawfick, W. P. King, “Mechanical Behavior of Ultra-Soft Elastomeric Architected Materials” in 2025 Society of Engineering Science Annual Technical Meeting (SES2025), Atlanta, GA, 2025 (Oral)
+*	M. H. Mohammadi, R. Manoharaan, Y. Liu, T. Dillon, M. Bimrose, **H. Kim**, M. Duncan, K. V. Prasanth, W. P. King, R. Bhargava “Developing Defined Serum-Free Media for Reproducible Breast Cancer Models” in Biomedical Engineering Society 2025 Annual Meeting (BMES 2025), San Diego, CA, 2025 (Oral)
+*	**H. Kim**, S. H. Tawfick, W. P. King, “Machine Learning-Enabled Modeling and Design of Additively Manufactured Zero-Stiffness Elastomer Springs” in 2022 Society of Engineering Science Annual Technical Meeting (SES2022), College Station, TX, 2022 (Poster Presenter)
 
 * D. Choi, M. Kim, **H. Kim**, J. Choe, M. C. Nah, “Motion Planning of Autonomous Personal Transporter Using Model Predictive Control for Minimizing Non-Minimum Phase Behavior” in *15th International Conference on Ubiquitous Robots (UR 2018)*, Honolulu, HI, 2018, pp. 362-368. (**Best Application Paper Award**)[[Link]](https://ieeexplore.ieee.org/abstract/document/8442211)
 
