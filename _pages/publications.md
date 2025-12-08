@@ -6,6 +6,7 @@ classes: wide
 
 ---
 <u>Underlined Names</u>: equally contributed
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=7NNTY4wAAAAJ)
 
 ### Peer-reviewed Journal Articles ###
 * A. E. Rzepka, **H. Kim**, C. H. Conway, S. Özerinç, S. H. Tawfick, W. P. King, K. H. Matlack, “Architected Granular Media: a new class of Composites for Energy Absorption Applications”, *In Review*
