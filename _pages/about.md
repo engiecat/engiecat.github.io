@@ -11,7 +11,9 @@ E-mail: engiecat3.14 (at) gmail [dot] com
 
 ![times in florence](/assets/images/about_splash.jpg)
 
-Hyeongkeun 'Hugo' Kim is a Ph.D. Candidate in the [Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign](https://mechse.illinois.edu/), advised by Prof. William P. King and Prof. Sameh H. Tawfick. Hugo is a recipient of the [2025-2026 Mavis Future Faculty Fellowship](https://mavis.grainger.illinois.edu/) from The Grainger College of Engineering. His research lies at the intersection of solid mechanics, additive manufacturing, and machine learning, with a focus on establishing reliable structure-property relationships in architected materials and creating robust, high-performance architected materials using experimental data-driven approach. Furthermore, with the background in both Mechanical Engineering and Bioengineering, Hugo is working on applying the approach for design and process optimizations in biomanufacturing applications.
+Hyeongkeun 'Hugo' Kim is a Ph.D. Candidate in the [Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign](https://mechse.illinois.edu/), advised by Prof. William P. King and Prof. Sameh H. Tawfick. Hugo is a recipient of the [2025-2026 Mavis Future Faculty Fellowship](https://mavis.grainger.illinois.edu/) from The Grainger College of Engineering. 
+
+His research lies at the intersection of solid mechanics, additive manufacturing, and machine learning, with a focus on establishing reliable structure-property relationships in architected materials and creating robust, high-performance architected materials using experimental data-driven approach. Furthermore, with the background in both Mechanical Engineering and Bioengineering, Hugo is working on applying the approach for design and process optimizations in biomanufacturing applications.
 
 **Current Research**
 
