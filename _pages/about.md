@@ -17,7 +17,7 @@ His research lies at the intersection of solid mechanics, additive manufacturing
 
 **Current Research**
 
-Hugo is a Graduate Research Assistant at the [Intelligent Manufacturing and Thermal Systems Laboratory](https://kinglab.mechse.illinois.edu/). His doctoral research, "Mechanics of Additively Manufactured Soft Lattice Structures and Architected Materials", combines experimental mechanics with data-driven models to predict and optimize the behavior of architected materials.
+Hugo is a Graduate Research Assistant at the [Intelligent Manufacturing and Thermal Systems Laboratory](https://kinglab.mechse.illinois.edu/), and [Kinetic Materials Research Group](https://tawfick.mechse.illinois.edu/). His doctoral research, "Mechanics of Additively Manufactured Soft Lattice Structures and Architected Materials", combines experimental mechanics with data-driven models to predict and optimize the behavior of architected materials.
 
 His key research directions include:
 * **Experimental Data-Driven Mechanics:** Developing Gaussian Process regressors and Graph Neural Networks (GNN) to predict the non-linear compression response of architected materials.
